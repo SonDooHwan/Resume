@@ -34,6 +34,11 @@
 - B.	멀티 모달리티 이미지 정합 및 전처리들을 통해 입력 이미지들을 만들고 뇌종양 추출<br/>
 - C.	추출한 뇌종양 label에서 feature vector 생성 후 이를 활용한 원발성뇌암/뇌전이암 classification 진행, 정확도 0.85 달성 <br/>
 
+-NMOSD환자, MS환자의 fatigue score, subcortical shape mesh를 활용한 statistical analysis <br/>
+- A.	Samsung Medical Center의 NMOSD, MS환자의 Fatigue score와 T1 brain MRI데이터를 사용하여 fatigue score와 significant한 correlation을 보이는 sub-cluster를 추출하고자 함<br/>
+- B.	T1 이미지에서 brain parcellation을 진행하고, 3D mesh surface를 추출하고 surface를 registration한 후 vertext별 정보를 추출하기 위해 local-shape-volume을 계산함 <br/>
+- C.	vertex별 local shape volume과 fatigue score와의 partial rank correlation분석을 진행하고, Cluster-based-statistics를 활용하여 통계적으로 유의미한 subcluster를 추출하여 가시화 함. <br/>
+
 ## 프로젝트 이력
 ### 바이오·의료기술개발사업
 - 소개: 인공지능 기반 정밀진단기법 개발

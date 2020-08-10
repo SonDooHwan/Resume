@@ -38,6 +38,8 @@
 - A.	Samsung Medical Center의 NMOSD, MS환자의 Fatigue score와 T1 brain MRI데이터를 사용하여 fatigue score와 significant한 correlation을 보이는 sub-cluster를 추출하고자 함<br/>
 - B.	T1 이미지에서 brain parcellation을 진행하고, 3D mesh surface를 추출하고 surface를 registration한 후 vertext별 정보를 추출하기 위해 local-shape-volume을 계산함 <br/>
 - C.	vertex별 local shape volume과 fatigue score와의 partial rank correlation분석을 진행하고, Cluster-based-statistics를 활용하여 통계적으로 유의미한 subcluster를 추출하여 가시화 함. <br/>
+- D.	가시화 한 subcortical 별 sub-region들에 대한 임상적 해석을 통해 fatigue와 관련한 NMOSD, MS환자의 좀더 local한 연관부위를 찾을 수 있게 <br/>
+
 
 ## 프로젝트 이력
 ### 바이오·의료기술개발사업

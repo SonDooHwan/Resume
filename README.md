@@ -1,8 +1,8 @@
 ## 소개
 ![프로필이미지](https://github.com/SonDooHwan/Resume/blob/master/images/SonDooHwan_200x200.jpg)
 - 이름: 손두환
-- 군필여부: 현 병역특례 지원중 (1급 현역)
-- Email: dhson_@naver.com
+- 군필여부: 현 병역특례  재직중 (1급 현역, (주) UST 21 부설연구소 : 해양공간정보기술 연구소)
+- Email: sdh@ust21.co.kr
 
 ```
 높은 퍼포먼스 및 설명 가능한 머신러닝 개발을 지향하고 있습니다.
@@ -11,7 +11,7 @@
 
 ## 학력
 - 고려대학교 바이오의공학과 졸업(2013 ~ 2017)
-- 고려대학교 바이오융합공학과 졸업예정(2017~2020.8)
+- 고려대학교 바이오융합공학과 졸업(2017~2020.8)
 
 ## 사용 기술
 최신 머신러닝 기술, 통계 기법들을 구현하고 검증할 수 있을정도의 코딩 스킬을 가지고 있습니다.
@@ -49,7 +49,7 @@
 - 관련기술: Python3, PyTorch
 
 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/SonDooHwan/Resume/issues)로 남겨주시겨나, dhson_@naver.com으로 연락주세요.<br/>
+부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/SonDooHwan/Resume/issues)로 남겨주시겨나, sdh@ust21.co.kr으로 연락주세요.<br/>
 감사합니다.
 
 
